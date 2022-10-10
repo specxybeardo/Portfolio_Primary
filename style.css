@@ -127,6 +127,7 @@ body a:hover
     padding-bottom: 15px;
     transition: color .2s linear;
     color: #fff;
+    position: inherit;
 }
 
 /* END TOP MENU */
